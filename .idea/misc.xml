@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfig">
+    <option name="appName" value="Default (Template) Project" />
+    <option name="env" value="ONLINE" />
+    <option name="unitTestMockFrameworkEnum" value="MOCKITO" />
+    <option name="unitTestAssertFrameworkEnum" value="HAMCREST" />
+    <option name="trafficMatchStrategy" value="TIME_FIRST" />
+    <option name="isSpecifiedTestModule" value="false" />
+    <option name="isOptimizeCoverageStatistics" value="false" />
+    <option name="isGenUtForNotMatchTraffic" value="false" />
+    <option name="isGenUtNoDataRequired" value="false" />
+    <option name="mockBlackList">
+      <list />
+    </option>
+    <option name="mockWhiteList">
+      <list />
+    </option>
+    <option name="sideEffectList">
+      <list />
+    </option>
+    <option name="genTestBlackList">
+      <list />
+    </option>
+    <option name="utCoverageExcludeList">
+      <list />
+    </option>
+    <option name="isAutoDetectPandoraContainer" value="true" />
+    <option name="enablePandoraContainer" value="ENABLE" />
+    <option name="mockAnalyzeDeepLimit" value="3" />
+    <option name="collectConfigPackageLayer" value="4" />
+    <option name="isSpecifiedSaigaConfigDir" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
